@@ -65,6 +65,7 @@ Harvard University — **In Progress**
 
 📚 **CS50’s Introduction to Cybersecurity**  
 Harvard University — **In Progress**
+
 ---
 
 ## 📌 Featured Projects
