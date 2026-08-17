@@ -54,14 +54,17 @@ Outside of technology, I enjoy **reading books** and learning about different su
 
 🎓 **Software Engineering Student**
 
-📚 **CS50x — Introduction to Computer Science**
-Harvard University — Completed
-📚 **CS50s — Introduction to Databases with SQL**
-Harvard University — In Progress
-📚 **CS50p — Introduction to Programming with Python**
-Harvard University — In Progress
-📚 **CS50’s Introduction to Cybersecurity — In Progress**
-Harvard University — In Progress
+📚 **CS50x — Introduction to Computer Science**  
+Harvard University — **Completed**
+
+📚 **CS50’s Introduction to Databases with SQL**  
+Harvard University — **In Progress**
+
+📚 **CS50P — Introduction to Programming with Python**  
+Harvard University — **In Progress**
+
+📚 **CS50’s Introduction to Cybersecurity**  
+Harvard University — **In Progress**
 ---
 
 ## 📌 Featured Projects
